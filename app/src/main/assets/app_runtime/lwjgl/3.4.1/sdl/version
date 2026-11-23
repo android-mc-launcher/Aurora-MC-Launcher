@@ -1,0 +1,8 @@
+SDL3_VERSION=3.4.12
+SDL2_VERSION=2.32.57
+SDL3_SOURCE=FCL-Team/FoldCraftLauncher FCL/libs/SDL-release.aar (SDL3 3.4.12 android-project build)
+SDL2_SOURCE=sdl2-compat 2.32.57 (SDL-2.32.57-no-vcs), needs libSDL3.so
+ABI=arm64-v8a armeabi-v7a x86 x86_64
+OFFICIAL_LATEST_SDL3=3.4.20
+OFFICIAL_LATEST_SDL2=2.32.74
+LICENSE=zlib (see LICENSE.txt in sdl2/ and sdl3/)

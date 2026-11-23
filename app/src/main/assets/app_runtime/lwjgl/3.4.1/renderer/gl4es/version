@@ -1,0 +1,11 @@
+SFPEW_NAME=SimpleFPEWrapper
+SFPEW_LIB=libSimpleFPEWrapper.so
+SFPEW_BUILD_DATE=Oct 31 2026 18:34:34
+SFPEW_COMMIT=3042d8a87b4d
+SFPEW_SOURCE=ZalithLauncher/ZalithLauncher2 ZalithLauncher/libs/SimpleFPEWrapper-release.aar
+SFPEW_SOURCE_MIRROR=FCL-Team/FoldCraftLauncher FCL/libs/SimpleFPEWrapper-release.aar (byte-identical)
+SFPEW_UPSTREAM=MobileGL-Dev/SimpleFPEWrapper
+SFPEW_LICENSE=LGPL-3.0-only (see LICENSE.txt / COPYING / COPYING.LESSER)
+AAR_SHA256=2b6e7d24e91786aeda82f219f1c9a2df45f6811eddc86cc568d1011f581454a8
+ABI=arm64-v8a armeabi-v7a x86 x86_64
+ENV_SFPEW_EGL=backend EGL/GL library name or absolute path, read by upstream init.cpp getenv()

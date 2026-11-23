@@ -1,0 +1,3 @@
+jre8
+arch=aarch64
+source=HMCL-PE app_runtime (java/8-arm64/ + java/default/)

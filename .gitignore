@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Aurora · 2026-11-23 更新：gradle/wrapper/gradle-wrapper.jar 必须随工程提交。
+# 早期版本曾忽略该 jar；现已内置 Gradle 官方原版（49,154 B），下面三条反忽略规则
+# 保证即使有人补写 *.jar / gradle/ 或全局忽略规则，wrapper 也不会漏出版本库。
+!gradle/
+!gradle/wrapper/
+!gradle/wrapper/gradle-wrapper.jar
